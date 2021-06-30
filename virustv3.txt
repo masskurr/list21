@@ -1,0 +1,3283 @@
+
+<!--
+Please respect our hard-earned!
+-->
+<?xml version="1.0" encoding="utf-8" ?>
+<videogallery>
+<globals
+xPos="center" yPos="center"
+width="850" height="450" currentItem="0"    
+autoPlay="true" autoPlayList="true" showPreviewImage="true"
+controlButtonRollOverAlpha="0.3" progressBarColor="#ffffff"
+autoHideNav="true" autoHideNavTime="3"
+defaultVolume="0.5" defaultBuffer="3" fullSizeView="3"
+cssFile="./css/css.css">
+<combobox 
+show="true" selectedItem="0" maxVisibleOptions="5" menuD
+irection="down" optionColor="#FFFFFF" optionBgColor="#000000"
+/>
+<button show="true" position="right" width="250" height="80" spa
+cing="0" paddingLeft="0" titleFontSize="16" descriptionFontSize="12">
+<thumbnail width="80" height="60" borderWidth="5" bgAlph
+a="0.1" />
+<default titleColor="#333333" descriptionColor="#222222"
+ thumbnailBorderColor="#333333">
+<bgColor top="#111111" bottom="#000000" />
+</default>
+<rollOver titleColor="#FFFFFF" descriptionColor="#FFFFFF
+" thumbnailBorderColor="#FFFFFF">
+<bgColor top="#333333" bottom="#111111" />
+</rollOver>
+<current titleColor="#FFFFFF" descriptionColor="#999999"
+ thumbnailBorderColor="#FFFFFF">
+<bgColor top="#037ef9" bottom="#022d57" />
+</current>
+</button>
+<toolTip show="true" bgColor="#000000" textColor="#FFFFFF" alpha
+="1" />
+<content 
+titleColor="#037ef9" titleFontSize="20"
+descriptionColor="#999999" descriptionFontSize="12"
+bgColor="#000000" bgAlpha="0.5"
+/>
+<controls 
+showRewind="false" showInfo="true" showYouTubeHD="true" 
+showFullscreen="true" showScale="true"
+showSound="true" showTime="false" showCenterPlay="true" 
+alpha="0.5"
+/>
+<watermark 
+show="false" imageUrl="logo.png" position="left" margin=
+"0" alpha="1" 
+link="http://lihattv.com/" target="_blank"
+/>
+</globals>
+<category name="Live TV">
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Movies {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Movies channels]]></descri
+ption>
+<url>http://lihattv.com</url>
+<video>u5a48xlmiayjqn</video>
+<rtmpURI>rtmp://31.204.153.133/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Movies {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Movies channels]]></descri
+ption>
+<url>http://lihattv.com</url>
+<video>bc_3363497</video>
+<rtmpURI>rtmp://204.107.26.73/battlecam/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Serials {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Movies channels]]></descri
+ption>
+<url>http://lihattv.com</url>
+<video>bc_3379244</video>
+<rtmpURI>rtmp://204.107.26.73/battlecam/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Kids {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Kids channels]]></descript
+ion>
+<url>http://lihattv.com</url>
+<video>azb5adnw4mlioah</video>
+<rtmpURI>rtmp://31.204.154.141/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Baby {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Baby Channels]]></descript
+ion>
+<url>http://lihattv.com</url>
+<video>rd4yf4mc2o60ofh</video>
+<rtmpURI>rtmp://31.204.154.141/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Religi {TeST}]]></buttonDescription>
+<description><![CDATA[Sufi TV Religious channels]]></des
+cription>
+<url>http://lihattv.com</url>
+<video>bc_3379244</video>
+<rtmpURI>rtmp://204.107.26.73/battlecam/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Sufi TV {TeST}]]></buttonDescription>
+<description><![CDATA[Cahaya Sufi Magazine. Phone 62.21.
+8561.695, Website http://sufinews.com]]></description>
+<url>http://lihattv.com</url>
+<url>http://sufinews.com</url>
+<video>toffzjt2adcim1y</video>
+<rtmpURI>rtmp://31.204.154.141/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Recipes {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Food Channels]]></descript
+ion>
+<url>http://lihattv.com</url>
+<video>gnrp3lpmpstt0t</video>
+<rtmpURI>rtmp://31.204.154.141/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Sports {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Sports channels]]></descri
+ption>
+<url>http://lihattv.com</url>
+<video>2xsxgy7mien4dkb</video>
+<rtmpURI>rtmp://31.204.153.133:1935/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Relaxation {TeST}]]></buttonDescription>
+<description><![CDATA[LihatTV Movies channels]]></descri
+ption>
+<url>http://lihattv.com</url>
+<video>b4g5qb6bsipyp2m</video>
+<rtmpURI>rtmp://37.221.170.16/live/</rtmpURI>
+<thumbnail>images/logo.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Arena]]></buttonDescription>
+<description><![CDATA[Indonesian Sports TV Channels]]></
+description>
+<url>http://useetv.com</url>
+<video>arena</video>
+<rtmpURI>rtmp://114.120.192.74:1935/live/</rtmpURI>
+<thumbnail>images/ch/Arena.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> seleb.tv]]></buttonDescription>
+<description><![CDATA[Selebrity TV channels]]></descript
+ion>
+<url>http://seleb.tv/</url>
+<video>div.clips</video>
+<rtmpURI>rtmp://118.82.8.131:443/live</rtmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> WMBL]]></buttonDescription>
+<description><![CDATA[Women's National Basketball League
+ Indonesia sports TV channels]]></description>
+<video>livestream</video>
+<rtmpURI>rtmp://iodine.mitra.net.id/wnbl</rtmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> NBL Indonesia]]></buttonDescription>
+<description><![CDATA[National Basketball League Indones
+ia sports TV channels]]></description>
+<video>livestream</video>
+<rtmpURI>rtmp://iodine.mitra.net.id/nbl</rtmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> HBO]]></buttonDescription>
+<description><![CDATA[Movies TV channels]]></description
+>
+<video>mvhbox01</video>
+<rtmpURI>rtmp://victorynet.tv/live/</rtmpURI>
+<thumbnail>images/ch/HBO.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> FOX Movie Premium]]></buttonDescription>
+<description><![CDATA[Movies TV channels]]></description
+>
+<video>mvstarx01</video>
+<rtmpURI>rtmp://110.5.111.166/live/</rtmpURI>
+<thumbnail>images/ch/FoxMoviesPremium.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> FOX]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<video>mvfoxx01</video>
+<rtmpURI>rtmp://110.5.111.166/live/</rtmpURI>
+<thumbnail>images/ch/FOX.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> AXN]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<video>mvaxnx01</video>
+<rtmpURI>rtmp://victorynet.tv/live/</rtmpURI>
+<thumbnail>images/ch/AXN.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Star World]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<video>mvstarworldx01</video>
+<rtmpURI>rtmp://110.5.111.166/live/</rtmpURI>
+<thumbnail>images/ch/StarWorld.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Celestial Movies]]></buttonDescription>
+<description><![CDATA[Movies TV channels]]></description
+>
+<video>mvcelesx01</video>
+<rtmpURI>rtmp://victorynet.tv/live/</rtmpURI>
+<thumbnail>images/ch/CelestialMovies.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> RED]]></buttonDescription>
+<description><![CDATA[Movies TV channels]]></description
+>
+<video>mvredx01</video>
+<rtmpURI>rtmp://110.5.111.166/live/</rtmpURI>
+<thumbnail>images/ch/RED.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Animax]]></buttonDescription>
+<description><![CDATA[Anime TV channels]]></description>
+<video>mvanimaxx01</video>
+<rtmpURI>rtmp://110.5.111.166/live/</rtmpURI>
+<thumbnail>images/ch/Animax.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> NatGeo Wild (Indonesia)]]></buttonDescription>
+<description><![CDATA[Science TV channels]]></descriptio
+n>
+<video>mvantvx01</video>
+<rtmpURI>rtmp://110.5.111.166/live/</rtmpURI>
+<thumbnail>images/ch/NatGeoWild.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> National Geographic (Asia)]]></buttonDescription>
+<description><![CDATA[Science TV channels]]></descriptio
+n>
+<video>mvantvx01</video>
+<rtmpURI>rtmp://110.5.111.56/live/</rtmpURI>
+<thumbnail>images/ch/NatGeo.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> CNBC (Asia)]]></buttonDescription>
+<description><![CDATA[News Channel]]></description>
+<video>mvcnbcx01</video>
+<rtmpURI>rtmp://110.5.111.56/live/</rtmpURI>
+<thumbnail>images/ch/CNBC.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Victory Movies]]></buttonDescription>
+<description><![CDATA[Indonesia Movies TV channels]]></d
+escription>
+<video>mvmoviex01</video>
+<rtmpURI>rtmp://victorynet.tv:1934/live/</rtmpURI>
+<thumbnail>images/ch/VictoryMovies.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Victory Drama]]></buttonDescription>
+<description><![CDATA[Indonesia Drama TV channels]]></de
+scription>
+<video>mvdramax01</video>
+<rtmpURI>rtmp://victorynet.tv:1934/live/</rtmpURI>
+<thumbnail>images/ch/VictoryDrama.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Victory Music]]></buttonDescription>
+<description><![CDATA[Indonesia Music TV channels]]></de
+scription>
+<video>mvclipx01</video>
+<rtmpURI>rtmp://victorynet.tv:1934/live/</rtmpURI>
+<thumbnail>images/ch/VictoryMusic.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> B-Cinema]]></buttonDescription>
+<description><![CDATA[Indonesia Cinema TV channels]]></d
+escription>
+<url>http://bagan.tv/#</url>
+<video>ch128.stream</video>
+<rtmpURI>rtmp://119.110.77.181/liveorigin/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> B-Anime]]></buttonDescription>
+<description><![CDATA[Indonesia Kids TV channels]]></des
+cription>
+<url>http://bagan.tv/#</url>
+<video>ch006.stream</video>
+<rtmpURI>rtmp://119.110.77.181/liveorigin/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> B-Music]]></buttonDescription>
+<description><![CDATA[Indonesia Music TV channels]]></de
+scription>
+<url>http://bagan.tv/#</url>
+<video>ch129.stream</video>
+<rtmpURI>rtmp://119.110.77.181/liveorigin/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> More TV]]></buttonDescription>
+<description><![CDATA[Indonesia Music TV channels]]></de
+scription>
+<url>http://bagan.tv/#</url>
+<video>ch130.stream</video>
+<rtmpURI>rtmp://119.110.77.181/liveorigin/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Komed TV]]></buttonDescription>
+<description><![CDATA[Indonesian kids tv channels]]></de
+scription>
+<url>http://www.komed.tv/</url>
+<video>http://videostream.indostreamserver.com/komed/liv
+e/Manifest</video>
+<!--rtmpURI>rtmp://videostream.indostreamserver.com/kome
+d/live</rtmpURI-->
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> IwanFals TV]]></buttonDescription>
+<description><![CDATA[Indonesian IwanFals TV channels]]>
+</description>
+<url>http://www.iwanfals.tv/</url>
+<video>iwanfals.stream_source</video>
+<rtmpURI>rtmp://stream-id1.kelir.tv/bia/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Slankers TV]]></buttonDescription>
+<description><![CDATA[Indonesian Slank TV channels]]></d
+escription>
+<url>http://www.slankers.tv/livetv</url>
+<video>slankers.stream_360p</video>
+<rtmpURI>rtmp://stream-id1.kelir.tv/bia/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Slankers TV]]></buttonDescription>
+<description><![CDATA[Indonesian Slank TV channels]]></d
+escription>
+<url>http://www.slankers.tv/livetv</url>
+<video>slankers.stream_480p</video>
+<rtmpURI>rtmp://stream-id1.kelir.tv/bia/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Kandangan TV]]></buttonDescription>
+<description><![CDATA[Indonesian kids tv channels]]></de
+scription>
+<url>http://www.kandangan-tv.com/</url>
+<video>kandangantv</video>
+<rtmpURI>rtsp://119.235.30.180:1935/initv/kandangantv/</
+rtmpURI>
+<thumbnail></thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> WINStar TV Movies]]></buttonDescription>
+<description><![CDATA[Indonesian movies TV channels]]></
+description>
+<url>http://winstar.tv</url>
+<video>winstarmovies</video>
+<rtmpURI>rtmp://video4.onlivestreaming.net/winstartv/</r
+tmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> WINStar TV IndoMovie]]></buttonDescription>
+<description><![CDATA[Indonesian movies TV channels]]></
+description>
+<url>http://winstar.tv</url>
+<video>indomovies</video>
+<rtmpURI>rtmp://video4.onlivestreaming.net/winstartv/</r
+tmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> WINStar TV Sports 1]]></buttonDescription>
+<description><![CDATA[Indonesian movies TV channels]]></
+description>
+<url>http://winstar.tv</url>
+<video>winstarsport1</video>
+<rtmpURI>rtmp://video4.onlivestreaming.net/winstartv/</r
+tmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> WINStar TV Sports 2]]></buttonDescription>
+<description><![CDATA[Indonesian movies TV channels]]></
+description>
+<url>http://winstar.tv</url>
+<video>winstarsport2</video>
+<rtmpURI>rtmp://video4.onlivestreaming.net/winstartv/</r
+tmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> KBTV]]></buttonDescription>
+<description><![CDATA[Indonesia Movies TV channels]]></d
+escription>
+<url>http://kbtv-studio.blogspot.com/</url>
+<video>kbtv</video>
+<rtmpURI>rtmp://175.103.58.83/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> BPO Movies]]></buttonDescription>
+<description><![CDATA[Indonesian movies TV channels]]></
+description>
+<url>http://www.bantentv.com/</url>
+<video>bpotv</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/bpotv/</rtmpURI
+>
+<thumbnail>images/ch/BPOTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Inspira TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://inspira.tv</url>
+<video>live.sdp</video>
+<rtmpURI>rtmp://video.inspira.tv:1935/inspiratv/</rtmpUR
+I>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Nuris TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://nuristv.blogspot.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://wms.klikhost.com/nuristv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Bali TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://useetv.com</url>
+<video>balitv</video>
+<rtmpURI>rtmp://114.120.192.74/live/</rtmpURI>
+<thumbnail>images/ch/BaliTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Celebes TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://celebes-tv.com/streaming/</url>
+<url>http://www.useetv.com/live?code=celebestv</url>
+<video>celebestv</video>
+<rtmpURI>rtmp://118.97.183.196:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> C-TV Banten]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.cahayabanten.tv/</url>
+<video>livestream</video>
+<rtmpURI>rtmp://103.23.201.170/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> banten tv]]></buttonDescription>
+<description><![CDATA[Indonesian TV channels]]></descrip
+tion>
+<url>http://www.bantentv.com/</url>
+<video>stream.sdp</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/bantentv/</rtmp
+URI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TV 3]]></buttonDescription>
+<description><![CDATA[Indonesian TV channels]]></descrip
+tion>
+<url>http://www.tvtiga.tv/</url>
+<video>tv3</video>
+<!--rtmpURI>rtmp://cahayabanten.tv/live/</rtmpURI-->
+<rtmpURI>rtmp://103.23.201.170:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TV9]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://tv9.co.id/</url>
+<video>live</video>
+<rtmpURI>rtmp://119.235.249.60/tv9/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> HalloTiVi]]></buttonDescription>
+<description><![CDATA[Music TV channels]]></description>
+<url>http://halotivi.com/</url>
+<video>halotv</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail></thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SMK TV]]></buttonDescription>
+<description><![CDATA[Indonesian TV channels]]></descrip
+tion>
+<url>http://esemka.tv/</url>
+<video>es_ch001.stream</video>
+<rtmpURI>rtmp://origin1.bagan.tv/esemka/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Kandangan TV]]></buttonDescription>
+<description><![CDATA[TV channels]]></description>
+<url>http://www.kandangan-tv.com/</url>
+<video>kandangantv</video>
+<rtmpURI>rtmp://175.103.58.83/live</rtmpURI>
+<thumbnail>images/ch/KandanganTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Oggi Vision]]></buttonDescription>
+<description><![CDATA[Indonesian Local TV channels]]></d
+escription>
+<url>http://www.kandangan-tv.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://wms.klikhost.com/oggivision/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> TVMu]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://useetv.com/</url>
+<video>muhammadiyahtv</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Wisata Hati TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://indostreamserver.com/video-streaming-demo.ph
+p</url>
+<video>BBStream</video>
+<rtmpURI>rtmp://119.235.248.182/whtv/</rtmpURI>
+<thumbnail>images/ch/WisataHati.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Wisata Hati TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://indostreamserver.com/video-streaming-demo.ph
+p</url>
+<video>PCStream</video>
+<rtmpURI>rtmp://119.235.248.182/whtv/</rtmpURI>
+<thumbnail>images/ch/WisataHati.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> DaQu TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://www.daqutv.com/</url>
+<video>daqutv</video>
+<rtmpURI>rtmp://stream.pencerahan.tv/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> STTV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://www.useetv.com/live?code=tauhidtv</url>
+<video>tauhidtv</video>
+<rtmpURI>rtmp://118.97.167.19:1935/livetv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> STTV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://www.smstauhiid.tv/</url>
+<video>tauhidtv</video>
+<rtmpURI>rtmp://118.97.183.196:1935/livetv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> STTV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://www.daqutv.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://119.235.249.60/tauhid/</rtmpURI>
+<thumbnail></thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> aliftv]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://useetv.com</url>
+<video>aliftv</video>
+<rtmpURI>rtmp://114.120.192.74/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> A Channel]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://www.daqutv.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/achanne
+ltv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Pencerahan TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://pencerahan.tv/</url>
+<video>ptv_160p</video>
+<rtmpURI>rtmp://stream.pencerahan.tv/live/</rtmpURI>
+<thumbnail>images/ch/PencerahanTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Pencerahan TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://pencerahan.tv/</url>
+<video>ptv_240p</video>
+<rtmpURI>rtmp://stream.pencerahan.tv/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Pencerahan TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://pencerahan.tv/</url>
+<video>ptv_360p</video>
+<rtmpURI>rtmp://stream.pencerahan.tv/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Pencerahan TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://pencerahan.tv/</url>
+<video>ptv_hd</video>
+<rtmpURI>rtmp://stream.pencerahan.tv/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SHD</f
+ont> Pencerahan TV]]></buttonDescription>
+<description><![CDATA[Indonesian Moslem TV channels]]></
+description>
+<url>http://pencerahan.tv/</url>
+<video>ptv</video>
+<rtmpURI>rtmp://stream.pencerahan.tv/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Laa Tahzan TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://www.laatahzan.tv/</url>
+<video>live.sdp</video>
+<rtmpURI>rtmp://202.43.73.210:1935/live/</rtmpURI>
+<!-rtmpURI>rtmp://202.43.73.182:1935/live/</rtmpURI->
+<!-rtmpURI>rtmp://flash4.klikstream.net:1935/laatahzan/<
+/rtmpURI->
+<thumbnail>images/ch/LaaTahzan.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Kita TV]]></buttonDescription>
+<description><![CDATA[Indonesian Music TV channels]]></d
+escription>
+<url>http://www.kitatv.com/</url>
+<video>myStream</video>
+<rtmpURI>rtmp://www.kitatv.com/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> BandKamu TV]]></buttonDescription>
+<description><![CDATA[Indonesian Music TV channels]]></d
+escription>
+<url>http://bandkamu.tv/</url>
+<video>bandkamutv</video>
+<rtmpURI>rtmp://wow2.onlivestreaming.net/bandkamutv/</rt
+mpURI>
+<thumbnail>images/ch/BandKamu.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> BandKamu TV]]></buttonDescription>
+<description><![CDATA[Indonesian Music TV channels]]></d
+escription>
+<url>http://bandkamu.tv/</url>
+<video>bandkamutv</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/bandkamutv/</rt
+mpURI>
+<thumbnail>images/ch/BandKamu.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Tempo TV]]></buttonDescription>
+<description><![CDATA[Indonesian TV channels]]></descrip
+tion>
+<url>http://www.tempo-tv.com/component/contushdvideoshar
+e/player/77/2</url>
+<video>live</video>
+<rtmpURI>rtmp://flash.klikstream.net:1935/tempotv/</rtmp
+URI>
+<thumbnail>images/ch/TempoTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> NET. HD]]></buttonDescription>
+<description><![CDATA[Indonesia Entertainment TV channel
+s]]></description>
+<url>http://www.netmedia.co.id/live</url>
+<video>mp4:livetrial.stream_160p</video>
+<rtmpURI>rtmp://stream5.kelir.tv/netmedia/</rtmpURI>
+<thumbnail></thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> NET. HD]]></buttonDescription>
+<description><![CDATA[Indonesia Entertainment TV channel
+s]]></description>
+<url>http://www.netmedia.co.id/live</url>
+<video>mp4:livetrial.stream_240p</video>
+<rtmpURI>rtmp://stream5.kelir.tv/netmedia/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> NET. HD]]></buttonDescription>
+<description><![CDATA[Indonesia Entertainment TV channel
+s]]></description>
+<url>http://www.netmedia.co.id/live</url>
+<video>mp4:livetrial.stream_360p</video>
+<rtmpURI>rtmp://stream5.kelir.tv/netmedia/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> NET. HD]]></buttonDescription>
+<description><![CDATA[Indonesia Entertainment TV channel
+s]]></description>
+<url>http://www.netmedia.co.id/live</url>
+<video>mp4:livetrial.stream_480p</video>
+<rtmpURI>rtmp://stream5.kelir.tv/netmedia/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Allegro TV]]></buttonDescription>
+<description><![CDATA[Music TV channels]]></description>
+<url>http://useetv.com</url>
+<video>allegro</video>
+<rtmpURI>rtmp://114.120.192.74:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> IniTV]]></buttonDescription>
+<description><![CDATA[Trailer Film/Movie TV channels]]><
+/description>
+<url>http://initv.net/</url>
+<video>Stream1</video>
+<rtmpURI>rtmp://streaming.initv.net/live/</rtmpURI>
+<thumbnail>images/ch/IniTV.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> bChannel]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>bc.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/bChannel.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> bChannel]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://bchanneltv.com/live/</url>
+<url>http://203.153.97.35/streaming/</url>
+<video>livestream</video>
+<rtmpURI>rtmp://203.153.97.35/live</rtmpURI>
+<thumbnail>images/ch/bChannel.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> bChannel]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.useetv.com/live?code=bchannel</url>
+<video>bchannel</video>
+<rtmpURI>rtmp://118.98.96.124:1935/live/</rtmpURI>
+<thumbnail>images/ch/bChannel.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> bChannel]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.useetv.com/live?code=bchannel</url>
+<video>bchannel</video>
+<rtmpURI>rtmp://114.120.192.74:1935/live/</rtmpURI>
+<thumbnail>images/ch/bChannel.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> RCTI]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>rcti</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail></thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> Global TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>globaltv</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail></thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> RCTI]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new1.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/RCTI.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> RCTI]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke1_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/RCTI.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> RCTI]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke1_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/RCTI.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> RCTI]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke1_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/RCTI.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> RCTI (VictoryTV.net)]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://victorynet.tv/</url>
+<video>mvrctix01</video>
+<rtmpURI>rtmp://110.5.111.56/live/</rtmpURI>
+<thumbnail>images/ch/RCTI.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Global TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new2.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/GlobalTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Global TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke2_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/GlobalTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Global TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke2_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/GlobalTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Global TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke2_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/GlobalTV.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Global TV (VictoryTV.net)]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://victorynet.tv/</url>
+<video>mvglobalx01</video>
+<rtmpURI>rtmp://119.110.68.190/live</rtmpURI>
+<thumbnail>images/ch/GlobalTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new3.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke3_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke3_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke3_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Sindo TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new4.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/SindoTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Sindo TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke4_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/SindoTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Sindo TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke4_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/SindoTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Sindo TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke4_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/SindoTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC News]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new5.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCNews.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC News]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke5_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCNews.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC News]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke5_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCNews.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC News]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke5_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCNews.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Muslim]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new9.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCMuslim.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Muslim]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke6_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCMuslim.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Muslim]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke6_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCMuslim.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Muslim]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke6_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCMuslim.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Lifestyle]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new7.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCLifeStyle.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Lifestyle]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke7_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLifeStyle.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Lifestyle]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke7_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLifeStyle.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Lifestyle]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke7_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLifeStyle.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new8.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCLife.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke8_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLife.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke8_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLife.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke8_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLife.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Music]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke9_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCMusic.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Music]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke9_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCMusic.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Music]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke9_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCMusic.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new6.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke10_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke10_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke10_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia Shopping TV channels]]><
+/description>
+<url>http://www.okezone.tv/</url>
+<video>mncoke11_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia Shopping TV channels]]><
+/description>
+<url>http://www.okezone.tv/</url>
+<video>mncoke11_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Shop]]></buttonDescription>
+<description><![CDATA[Indonesia Shopping TV channels]]><
+/description>
+<url>http://www.okezone.tv/</url>
+<video>mncoke11_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCShop.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Sport 1]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mnc_myu_new11.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live/</rtmpURI>
+<thumbnail>images/ch/MNCSport1.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Sport 1]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke12_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSport1.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Sport 1]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke12_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSport1.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Sport 1]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke12_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSport1.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Sport 2]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke13_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSport2.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Sport 2]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke13_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSport2.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Sport 2]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke13_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSport2.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke14_128.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCSLife.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke14_256.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLife.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> MNC Life]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.okezone.tv/</url>
+<video>mncoke14_512.stream</video>
+<rtmpURI>rtmp://edge.okeinfo.net/live</rtmpURI>
+<thumbnail>images/ch/MNCLife.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> O Channel]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.ochanneltv.com/streaming/</url>
+<video>octv_512</video>
+<rtmpURI>rtmp://202.58.124.140:1935/oc</rtmpURI>
+<thumbnail>images/ch/OChannel.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> O Channel]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.useetv.com/live?code=ochannel</url>
+<video>ochannel</video>
+<rtmpURI>rtmp://118.97.183.198:1935/live/</rtmpURI>
+<thumbnail>images/ch/OChannel.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> O Channel]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.useetv.com/live?code=ochannel</url>
+<video>ochannel</video>
+<rtmpURI>rtmp://114.120.192.74/live/</rtmpURI>
+<thumbnail>images/ch/OChannel.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Kompas TV]]></buttonDescription>
+<description><![CDATA[Indonesia Enertainment TV channels
+]]></description>
+<url>http://www.bagan.tv/</url>
+<video>kompas.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/KompasTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Kompas TV]]></buttonDescription>
+<description><![CDATA[Enertainment TV channels]]></descr
+iption>
+<url>http://www.kompas.tv/live/</url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/jakarta/</rtmpURI>
+<thumbnail>images/ch/KompasTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Kompas TV]]></buttonDescription>
+<description><![CDATA[Enertainment TV channels]]></descr
+iption>
+<url>http://www.useetv.com/live?code=kompas</url>
+<video>kompastv</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail>images/ch/KompasTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> STV Bandung]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.stv.co.id/</url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/bandung</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> TVB Semarang]]></buttonDescription>
+<description><![CDATA[Semarang TV channels]]></descripti
+on>
+<url>http://www.tvborobudur.com/</url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/semarang</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> ATV Malang]]></buttonDescription>
+<description><![CDATA[Malang TV channels]]></description
+>
+<url></url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/malang</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> bctv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bctv.co.id/</url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/surabaya</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Dewata TV]]></buttonDescription>
+<description><![CDATA[TV channels]]></description>
+<url>http://dewatatv.tv/</url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/denpasar</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Makassar TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://tvonline.makassartv.co.id/</url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/makassar</rtmpURI>
+<!--rtmpURI>rtmp://10.209.48.6:1935/makassar</rtmpURI-->
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Khatulistiwa TV]]></buttonDescription>
+<description><![CDATA[TV channels]]></description>
+<url></url>
+<video>offair.sdp</video>
+<rtmpURI>rtmp://202.137.11.52:1935/pontianak</rtmpURI>
+<thumbnail>images/ch/KhatulistiwaTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> BeritaSatu]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.beritasatu.com/beritasatu-tv</url>
+<video>beritasatu</video>
+<rtmpURI>rtmp://114.120.192.74/live/</rtmpURI>
+<thumbnail>images/ch/BeritaSatu.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> BeritaSatu]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.beritasatu.com/beritasatu-tv</url>
+<video>beritasatu</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail>images/ch/BeritaSatu.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> BeritaSatu]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.beritasatu.com/beritasatu-tv</url>
+<video>Sberitasatu.sdp</video>
+<rtmpURI>rtmp://202.73.99.12/live/</rtmpURI>
+<thumbnail>images/ch/BeritaSatu.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> BeritaSatu]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.beritasatu.com/beritasatu-tv</url>
+<video>Lberitasatu.sdp</video>
+<rtmpURI>rtmp://202.73.99.12/live/</rtmpURI>
+<thumbnail>images/ch/BeritaSatu.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> BeritaSatu]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.beritasatu.com/beritasatu-tv</url>
+<video>Hberitasatu.sdp</video>
+<rtmpURI>rtmp://202.73.99.12/live/</rtmpURI>
+<thumbnail>images/ch/BeritaSatu.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Metro TV]]></buttonDescription>
+<description><![CDATA[Indonesia News TV channels]]></des
+cription>
+<url>http://www.bagan.tv/</url>
+<video>metro.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/MetroTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Metro TV]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.useetv.com/live?code=metrotv</url>
+<video>metrotv</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<thumbnail>images/ch/MetroTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Metro TV]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.useetv.com/live?code=metrotv</url>
+<video>metrotv</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail>images/ch/MetroTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Metro TV]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.metrotvnews.com/front/streaming</url>
+<video>video_360p</video>
+<rtmpURI>rtmp://202.158.49.58:1935/mobile/</rtmpURI>
+<thumbnail>images/ch/MetroTV.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Metro TV]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://victorynet.tv/</url>
+<video>mvmetrox01</video>
+<rtmpURI>rtmp://119.110.68.190/live</rtmpURI>
+<thumbnail>images/ch/MetroTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> tvOne]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>tvone.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> tvOne]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.vivanews.com/streaming/tvone</url>
+<video>tvone3</video>
+<rtmpURI>rtmp://202.129.216.27/live</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> tvOne]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.vivanews.com/streaming/tvone</url>
+<video>tvone2</video>
+<rtmpURI>rtmp://202.129.216.27/live</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> tvOne]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.vivanews.com/streaming/tvone</url>
+<video>tvone1</video>
+<rtmpURI>rtmp://202.129.216.27/live</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> tvOne]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://halotivi.com/</url>
+<video>tvone</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> tvOne]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://useetv.com/</url>
+<video>tvone</video>
+<rtmpURI>rtmp://118.97.167.19/live/</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> tvOne (VictoryTV)]]></buttonDescription>
+<description><![CDATA[News TV channels]]></description>
+<url>http://www.tvonenews.tv/streaming</url>
+<video>stream</video>
+<rtmpURI>rtmp://tvonenews.tv/tv1</rtmpURI>
+<thumbnail>images/ch/tvOne.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>antv.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/antv.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.vivanews.com/streaming/antv</url>
+<video>antv3</video>
+<rtmpURI>rtmp://202.129.216.27/live</rtmpURI>
+<thumbnail>images/ch/antv.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.vivanews.com/streaming/antv</url>
+<video>antv2</video>
+<rtmpURI>rtmp://202.129.216.27/live</rtmpURI>
+<thumbnail>images/ch/antv.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.vivanews.com/streaming/antv</url>
+<video>antv1</video>
+<rtmpURI>rtmp://202.129.216.27/live</rtmpURI>
+<thumbnail>images/ch/antv.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>antv</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail>images/ch/antv.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://victorynet.tv/</url>
+<video>mvantvx01</video>
+<rtmpURI>rtmp://119.110.68.190/live</rtmpURI>
+<thumbnail>images/ch/antv.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> antv]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://useetv.com</url>
+<video>antv</video>
+<rtmpURI>rtmp://118.97.167.19/live/</rtmpURI>
+<thumbnail>images/ch/antv.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Detik TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>detiktv.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/DetikTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>transtv.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>transtv@7.sdp</video>
+<rtmpURI>rtmp://live.mytrans.com:1935/live</rtmpURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>transtv@5.sdp</video>
+<rtmpURI>rtmp://live.mytrans.com:1935/live</rtmpURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>transtv@4.sdp</video>
+<rtmpURI>rtmp://live.mytrans.com:1935/live</rtmpURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SHD</f
+ont> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>transtv@2.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>transtv</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>transtv.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://victorynet.tv/</url>
+<video>mvtranstvx01</video>
+<rtmpURI>rtmp://110.5.111.56/live</rtmpURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.mytrans.com/live_streaming/transtv/</url
+>
+<video>transtv@7.sdp</video>
+<rtmpURI>rtmp://us.live.mytrans.com/live/</rtmpURI>
+<!-video>transtv@5.sdp</video>
+<rtmpURI>rtmp://live.mytrans.com:1935/live</rtmpURI->
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>ch003.stream</video>
+<rtmpURI>rtmp://119.110.77.181/liveorigin/</rtmpURI>
+<thumbnail>images/ch/TransTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>ch002.stream</video>
+<rtmpURI>rtmp://119.110.77.181/liveorigin/</rtmpURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>trans7.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>trans7@7.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>trans7@5.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>trans7@4.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SHD</f
+ont> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>trans7@2.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>trans7</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>trans7.sdp</video>
+<rtmpURI>rtmp://203.190.243.41:1935/live/_definst_/</rtm
+pURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://victorynet.tv/</url>
+<video>mvtranstujuhx01</video>
+<rtmpURI>rtmp://110.5.111.56/live</rtmpURI>
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Trans 7]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.mytrans.com/live_streaming/trans7/</url>
+<video>trans7@7.sdp</video>
+<rtmpURI>rtmp://us.live.mytrans.com/live/</rtmpURI>
+<!-video>trans7.sdp</video>
+<rtmpURI>rtmp://live.mytrans.com:1935/live</rtmpURI->
+<thumbnail>images/ch/Trans7.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Detik TV]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://tv.detik.com/livetv</url>
+<video>detiktv.sdp</video>
+<rtmpURI>rtmp://live.tv.detik.com:1935/live</rtmpURI>
+<thumbnail>images/ch/DetikTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>indosiar.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>sctv.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> O Channel]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>octv.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/OChannel.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.useetv.com/live?code=channel2</url>
+<video>indosiar</video>
+<rtmpURI>rtmp://118.98.96.124:1935/live/</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.useetv.com/live?code=channel2</url>
+<video>indosiar</video>
+<rtmpURI>rtmp://118.97.167.19/live/</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.sctv.co.id/streaming/indosiar</url>
+<video>ivm_500</video>
+<rtmpURI>rtmp://202.58.124.140/live</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.sctv.co.id/streaming/sctv</url>
+<video>lip6_500</video>
+<rtmpURI>rtmp://202.58.124.140/live</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://video.liputan6.com/streaming/indosiar</url>
+<video>indolive_128</video>
+<rtmpURI>rtmp://202.58.124.200/indolive/</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://video.liputan6.com/streaming/indosiar</url>
+<video>indolive_256</video>
+<rtmpURI>rtmp://202.58.124.200/indolive/</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://video.liputan6.com/streaming/indosiar</url>
+<video>indolive_500</video>
+<rtmpURI>rtmp://202.58.124.200/indolive/</rtmpURI>
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> Indosiar]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>indosiar</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail>images/ch/Indosiar.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.useetv.com/live?code=sctv</url>
+<video>sctv</video>
+<rtmpURI>rtmp://118.97.96.17:1935/live/</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Entertainment TV channels]]></desc
+ription>
+<url>http://www.useetv.com/live?code=sctv</url>
+<video>sctv</video>
+<rtmpURI>rtmp://118.97.167.19/live/</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://video.liputan6.com/streaming/sctv</url>
+<video>sclive_128</video>
+<rtmpURI>rtmp://v.liputan6.com/sclive/</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://video.liputan6.com/streaming/sctv</url>
+<video>sclive_256</video>
+<rtmpURI>rtmp://v.liputan6.com/sclive/</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://video.liputan6.com/streaming/sctv</url>
+<video>sclive_500</video>
+<rtmpURI>rtmp://v.liputan6.com/sclive/</rtmpURI>
+<thumbnail>images/ch/SCTV.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SQ</fo
+nt> SCTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://halotivi.com/</url>
+<video>sctv</video>
+<rtmpURI>rtmp://118.97.96.17/live/</rtmpURI>
+<!-rtmpURI>rtmp://182.23.36.203/live/</rtmpURI->
+<thumbnail></thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Sindo Radio 104.6FM]]></buttonDescription>
+<description><![CDATA[104.6FM Indonesia Radio channels]]
+></description>
+<url>http://www.sindotrijaya.com/player/video</url>
+<video>sindoradio.stream</video>
+<rtmpURI>rtmp://202.80.220.72/live/</rtmpURI>
+<thumbnail>images/ch/SindoRadio.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Audio<
+/font> Sindo Radio 104.6FM]]></buttonDescription>
+<description><![CDATA[104.6FM Indonesia Radio channels]]
+></description>
+<url>http://www.sindotrijaya.com/player/audio</url>
+<video>sindoaudio.stream</video>
+<rtmpURI>rtmp://202.80.220.72/live/</rtmpURI>
+<thumbnail>images/ch/SindoRadio.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Nagaswara TV JKT]]></buttonDescription>
+<description><![CDATA[Nagaswara TV *Music TV channels]]>
+</description>
+<url>http://www.nagaswara.tv/</url>
+<video>live</video>
+<rtmpURI>rtmp://119.235.255.66/nstv</rtmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item>  *** MOVED TO YOUTUBE DAMN!
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Nagaswara FM BGR]]></buttonDescription>
+<description><![CDATA[NSTV *Nagaswara Radio channels]]><
+/description>
+<url>http://www.nagaswarafm.com/</url>
+<video>bogor</video>
+<rtmpURI>rtmp://videostream.nagaswarafm.com/nagaswarafm<
+/rtmpURI>
+<thumbnail>linen.jpg</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Kucing TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://bagan.tv/index.html</url>
+<video>devshed.stream</video>
+<rtmpURI>rtmp://amrik.bagan.tv:1935/devshed</rtmpURI>
+<thumbnail>images/ch/KucingTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Kucing TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://bagan.tv/</url>
+<video>kucing.stream</video>
+<rtmpURI>rtmp://119.110.77.181/erika</rtmpURI>
+<thumbnail>images/ch/KucingTV.png</thumbnail>
+</item-->
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Sunda Kelapa TV]]></buttonDescription>
+<description><![CDATA[Sunda Moslem TV channels]]></descr
+iption>
+<url>http://vecasts.blogspot.com/2012/04/sunda-kelapa-tv
+-live-streaming.html</url>
+<video>mxssapax01</video>
+<rtmpURI>rtmp://175.103.59.78/live</rtmpURI>
+<thumbnail>images/ch/SundaKelapa.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Green TV]]></buttonDescription>
+<description><![CDATA[Indonesian Agriculture TV channels
+]]></description>
+<url>http://greentv.ipb.ac.id/</url>
+<video>g0gr33n1p8</video>
+<rtmpURI>rtmp://greentv.ipb.ac.id/oflaDemo</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Binus TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.binus.tv/home/</url>
+<video>binustv</video>
+<rtmpURI>rtmp://202.58.181.205/binustv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> duta tv]]></buttonDescription>
+<description><![CDATA[Indonesian TV channels]]></descrip
+tion>
+<url>http://www.dutatv.co.id/live-streaming</url>
+<video>live.sdp</video>
+<rtmpURI>rtmp://wow2.onlivestreaming.net/dutatv/</rtmpUR
+I>
+<!--rtmpURI>rtmp://flash1.broadcastindo.net/dutatv</rtmp
+URI-->
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> Hadi TV 2]]></buttonDescription>
+<description><![CDATA[Pakistan (English, Urdu) TV channe
+ls]]></description>
+<video>channel2_110k</video>
+<rtmpURI>rtmp://38.96.175.40:1935/liveTrans/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Hadi TV 2]]></buttonDescription>
+<description><![CDATA[Pakistan (English, Urdu) TV channe
+ls]]></description>
+<video>channel2_190k</video>
+<rtmpURI>rtmp://38.96.175.40:1935/liveTrans/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Hadi TV 2]]></buttonDescription>
+<description><![CDATA[Religious Moslem TV channels]]></d
+escription>
+<url>http://www.haditv.com/dmn/2/req/livebroadcast/lang/
+id/Live%20Broadcast.html</url>
+<video>channel2_450k</video>
+<rtmpURI>rtmp://38.96.175.40:1935/liveTrans/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SHD</f
+ont> Hadi TV 2]]></buttonDescription>
+<description><![CDATA[Religious Moslem TV channels]]></d
+escription>
+<url>http://www.haditv.com/dmn/2/req/livebroadcast/lang/
+id/Live%20Broadcast.html</url>
+<video>channel2_800k</video>
+<rtmpURI>rtmp://38.96.175.40:1935/liveTrans/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> rodjatv]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://rodjatv.com/</url>
+<video>live.sdp</video>
+<rtmpURI>rtmp://rodjatv.com/rodja</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Salwa TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://www.salamdakwah.com/salwa-tv.html</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/salamda
+kwah/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Zakat TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://zakat.tv/</url>
+<video>live</video>
+<rtmpURI>rtmp://118.91.130.57:1935/zakat/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Triarga TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://www.triarga.tv/</url>
+<video>triargatv</video>
+<rtmpURI>rtmp://119.47.88.11/triargatvlive22042012</rtmp
+URI>
+<thumbnail>images/ch/TriargaTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Antero TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://antero.tv/</url>
+<video>stream</video>
+<rtmpURI>rtmp://tv.radioantero.com/anterotv</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Lantabur TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://www.lantabur.tv/</url>
+<video>mm1xx01</video>
+<rtmpURI>rtmp://175.103.59.102/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Ahsan TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://ahsan.tv/</url>
+<video>ahsantv</video>
+<rtmpURI>rtmp://ahsan.srfms.com/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Buyayahya TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://salingsaya.com/</url>
+<video>buyayahya</video>
+<rtmpURI>rtmp://live.salingsapa.com:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Insan tv]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://insantv.com/</url>
+<video>hp.sdp</video>
+<rtmpURI>rtmp://insantv.com/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HD</fo
+nt> Insan tv]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://insantv.com/</url>
+<video>tablet.sdp</video>
+<rtmpURI>rtmp://insantv.com/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> ADiTV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://aditv.co.id/</url>
+<video>aditv</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/aditv</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Bethany TV]]></buttonDescription>
+<description><![CDATA[Medan Religious TV channels]]></de
+scription>
+<url>http://www.bethanytv.tv/</url>
+<video>200</video>
+<rtmpURI>rtmp://www.bethanytv.tv/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Dhamma TV]]></buttonDescription>
+<description><![CDATA[Buddhist TV channels]]></descripti
+on>
+<url>http://dhammaweb.tv/</url>
+<video>mdhammax01</video>
+<rtmpURI>rtmp://stream1.naratel.net.id/live/</rtmpURI>
+<!--rtmpURI>rtmp://stream.indoweb.tv/live/</rtmpURI-->
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Hope TV]]></buttonDescription>
+<description><![CDATA[Religious TV channels]]></descript
+ion>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/advent<
+/rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Bible TV]]></buttonDescription>
+<description><![CDATA[Christian TV channels]]></descript
+ion>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.bibletv.info:1935/bibletv/</
+rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Pacific TV]]></buttonDescription>
+<description><![CDATA[Manado News Christian Religious TV
+ channels]]></description>
+<url>http://manadonews.com/live-streaming.php</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com:1935/pa
+cifictv</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Riau Channel]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://riauchanneltv.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/riaucha
+nnel/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Riau TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://indostreamvideo.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/minhost
+er/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TV Link]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<video>live1</video>
+<rtmpURI>rtmp://videostream.tvlink.co.id:1935/mystream</
+rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TV Link]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<video>live1</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/mystrea
+m</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Jambi]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/tvrijam
+bi</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> TVRI]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://useetv.com</url>
+<video>tvri</video>
+<rtmpURI>rtmp://118.97.167.19/live/</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Nasional]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>tvri1.stream</video>
+<rtmpURI>rtmp://119.110.77.181/erika</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Nasional]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://live.tvri.co.id/pc/index.php?option=com_cont
+ent&view=category&layout=blog&id=9&Itemid=81</url>
+<video>stream1.sdp</video>
+<rtmpURI>rtmp://118.97.50.102:1935/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Edukasi]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.bagan.tv/</url>
+<video>tvri2.stream</video>
+<rtmpURI>rtmp://119.110.77.181/erika</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Edukasi]]></buttonDescription>
+<description><![CDATA[Education TV channels]]></descript
+ion>
+<url>http://live.tvri.co.id/pc/index.php?option=com_cont
+ent&view=category&layout=blog&id=10&Itemid=82</url>
+<video>stream2.sdp</video>
+<rtmpURI>rtmp://118.97.50.102:1935/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> TVRI Budaya]]></buttonDescription>
+<description><![CDATA[Indonesia LifeStyle TV channels]]>
+</description>
+<url>http://www.bagan.tv/</url>
+<video>tvri3.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Budaya]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://live.tvri.co.id/pc/index.php?option=com_cont
+ent&view=category&layout=blog&id=11&Itemid=83</url>
+<video>stream3.sdp</video>
+<rtmpURI>rtmp://118.97.50.102:1935/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> TVRI Olahraga]]></buttonDescription>
+<description><![CDATA[Indonesia Sports TV channels]]></d
+escription>
+<url>http://www.bagan.tv/</url>
+<video>tvri4.stream</video>
+<rtmpURI>rtmp://10g.speedtest.co.id/erika/</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Olahraga]]></buttonDescription>
+<description><![CDATA[Sports TV channels]]></description
+>
+<url>http://live.tvri.co.id/pc/index.php?option=com_cont
+ent&view=category&layout=blog&id=12&Itemid=84</url>
+<video>stream4.sdp</video>
+<rtmpURI>rtmp://118.97.50.102:1935/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Sumatera Selatan]]></buttonDescription>
+<description><![CDATA[Sumatera Selatan TV channels]]></d
+escription>
+<url>http://www.tvrisumsel.co.id/index.php?option=com_co
+ntent&view=article&id=398&Itemid=227</url>
+<video>1tvri</video>
+<rtmpURI>rtmp://121.100.24.13/oflaDemo/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Jawa Timur]]></buttonDescription>
+<description><![CDATA[Jawa Timur TV channels]]></descrip
+tion>
+<url>http://indostar-tv.com/tvri-jatim/</url>
+<video>live.stream</video>
+<rtmpURI>rtmp://video2.onlivestreaming.net/tvrisurabaya/
+</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Jogja]]></buttonDescription>
+<description><![CDATA[Jogja TV channels]]></description>
+<url>http://tvriyogyakarta.com/</url>
+<video>livestream</video>
+<rtmpURI>rtmp://202.149.92.36/live/</rtmpURI>
+<thumbnail>images/ch/TVRI.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TVRI Bali]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>live</video>
+<rtmpURI>rtmp://wms.klikhost.com:1935/tvribali/</rtmpURI
+>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> JTV]]></buttonDescription>
+<description><![CDATA[Indonesia Surabaya TV channels]]><
+/description>
+<url>http://www.useetv.com/live?code=jtv</url>
+<video>jtv</video>
+<rtmpURI>rtmp://114.120.192.74/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> JTV]]></buttonDescription>
+<description><![CDATA[Indonesia Surabaya TV channels]]><
+/description>
+<url>http://www.useetv.com/live?code=jtv</url>
+<video>jtv</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> JTV]]></buttonDescription>
+<description><![CDATA[Indonesia Surabaya TV channels]]><
+/description>
+<url>http://www.pjtv.co.id/streaming</url>
+<url>http://indoweb.tv/old/myc.php</url>
+<video>pjtv</video>
+<rtmpURI>rtmp://stream.pjtv.co.id/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LD</fo
+nt> OGGI Vision]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url></url>
+<video>live</video>
+<rtmpURI>rtmp://wms.klikhost.com:1935/oggivision/</rtmpU
+RI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> PJTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.pjtv.co.id/streaming</url>
+<url>http://indoweb.tv/old/myc.php</url>
+<video>mpjtvx01</video>
+<rtmpURI>rtmp://stream.indoweb.tv/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> TATV]]></buttonDescription>
+<description><![CDATA[Solo Indonesia TV channels]]></des
+cription>
+<url>http://www.tatv.co.id/</url>
+<video>live.sdp</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/tatv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> LFTV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<video>mjpgx01</video>
+<rtmpURI>rtmp://stream.indoweb.tv/live</rtmpURI>
+<thumbnail>images/ch/LFTV.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> MTA TV]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa Moslem TV cha
+nnels]]></description>
+<url>http://mtatv.net/</url>
+<video>mtatv</video>
+<rtmpURI>rtmp://live.mtatv.net/mtatv</rtmpURI>
+<thumbnail>images/ch/MTATV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> Masjid Daarut Tauhiid]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa Moslem TV cha
+nnels]]></description>
+<url>http://www.useetv.com/live?code=mqtv</url>
+<video>mqtv</video>
+<rtmpURI>rtmp://114.120.192.74/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Masjid Daarut Tauhiid]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa Moslem TV cha
+nnels]]></description>
+<url>http://www.useetv.com/live?code=mqtv</url>
+<video>mqtv</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Masjid Daarut Tauhiid]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa Moslem TV cha
+nnels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>dtjakarta</video>
+<rtmpURI>rtmp://175.103.58.83/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> STQ DT]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa Moslem TV cha
+nnels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>masjiddt2</video>
+<rtmpURI>rtmp://live.salingsapa.com/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> MQTV Bandung]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa Moslem TV cha
+nnels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>mmqtvx01</video>
+<rtmpURI>rtmp://live.salingsapa.com/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SS: Nassarudin Umar 24/7]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa  Moslem TV ch
+annels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>mxapssx01</video>
+<rtmpURI>rtmp://live.salingsapa.com/live</rtmpURI>
+<thumbnail>images/ch/SalingSapa.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SS: Abdullah Gymnastiar 24/7]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa  Moslem TV ch
+annels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>mxvoddax01</video>
+<rtmpURI>rtmp://live.salingsapa.com/live</rtmpURI>
+<thumbnail>images/ch/SalingSapa.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SS: Muhammad Arifin Ilham 24/7]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa  Moslem TV ch
+annels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>mxsalingsapax01</video>
+<rtmpURI>rtmp://live.salingsapa.com/live</rtmpURI>
+<thumbnail>images/ch/SalingSapa.png</thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SS: Bachtiar Nasir 24/7]]></buttonDescription>
+<description><![CDATA[Indonesia SalingSapa  Moslem TV ch
+annels]]></description>
+<url>http://www.mqtv.co.id/livestreaming</url>
+<video>mxvod22x01</video>
+<rtmpURI>rtmp://live.salingsapa.com/live</rtmpURI>
+<thumbnail>images/ch/SalingSapa.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Padang TV]]></buttonDescription>
+<description><![CDATA[Indonesia Padang TV channels]]></d
+escription>
+<url>http://www.padangtv.co.id/</url>
+<video>padangtv</video>
+<rtmpURI>rtmp://119.47.88.11/padangtvlive28052012</rtmpU
+RI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TV Cimbuak]]></buttonDescription>
+<description><![CDATA[Indonesia Padang TV channels]]></d
+escription>
+<url>http://tv.cimbuak.net/</url>
+<video>cimbuak.sdp</video>
+<rtmpURI>rtmp://119.2.71.111/cimbuak/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Jak TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.jak-tv.com/app/streaming/</url>
+<video>jaktv</video><playpath>
+<rtmpURI>rtmp://stream.seleb.tv:443/jaktv</rtmpURI>
+<thumbnail>images/ch/JakTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Batu TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.batutelevisi.com/</url>
+<video>batu</video>
+<rtmpURI>rtmp://110.138.225.199:1935/oflaDemo</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> TVKU]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://tvku.tv/streaming/</url>
+<video>tvku</video>
+<rtmpURI>rtmp://103.246.107.61/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> SBO TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://sbotivi.com/</url>
+<video>streams/live_1</video>
+<rtmpURI>rtmp://flash57.ustream.tv:1935/ustreamVideo/855
+0559</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">SD</fo
+nt> TV Edukasi (Student)]]></buttonDescription>
+<description><![CDATA[Edukasi for student TV channels]]>
+</description>
+<url>http://www.useetv.com/live?code=tvedukasi</url>
+<video>tvedukasi</video>
+<rtmpURI>rtmp://118.97.167.19:1935/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> TV Edukasi (Student)]]></buttonDescription>
+<description><![CDATA[Edukasi for student TV channels]]>
+</description>
+<url>http://tve.kemdiknas.go.id/tve1/ch4.html</url>
+<video>live</video>
+<rtmpURI>rtmp://118.98.223.91/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> TV Edukasi (Teacher)]]></buttonDescription>
+<description><![CDATA[Edukasi for tutor TV channels]]></
+description>
+<url>http://tve.kemdiknas.go.id/tve1/ch2.html</url>
+<video>livestream</video>
+<rtmpURI>rtmp://118.98.223.92/live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Jogja TV]]></buttonDescription>
+<description><![CDATA[Jogja TV channels]]></description>
+<url>http://www.jogjatv.tv/</url>
+<video>jogjatv</video>
+<rtmpURI>rtmp://54.251.114.77:1935/midiDemo/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Madura Channel]]></buttonDescription>
+<description><![CDATA[Madura TV channels]]></description
+>
+<url>http://www.jogjatv.tv/</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com:1935/ma
+durachannel/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Madura TV]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.madurachannel.com/tv/index.html</url>
+<video>machan</video>
+<rtmpURI>rtmp://111.221.40.128/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Sakti Madiun]]></buttonDescription>
+<description><![CDATA[Indonesia TV channels]]></descript
+ion>
+<url>http://www.saktimadiun.co.id/live-stream/</url>
+<video>live.sdp</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/saktimadiun/</r
+tmpURI>
+<thumbnail></thumbnail>
+</item>
+<!--item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> Persada TV]]></buttonDescription>
+<description><![CDATA[Moslem TV channels]]></description
+>
+<url>http://lantabur.tv/index.php?option=com_content&vie
+w=category&layout=blog&id=4&Itemid=75</url>
+<video>mm2xx01</video>
+<rtmpURI>rtmp://175.103.59.102/live/</rtmpURI>
+<thumbnail>images/ch/PersadaTV.png</thumbnail>
+</item-->
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Rajawali TV]]></buttonDescription>
+<description><![CDATA[Indonesia Bandung TV channels]]></
+description>
+<url>http://rajawalitv.web.id/index.php/live-streaming</
+url>
+<video>rajawalitv</video>
+<rtmpURI>rtmp://125.160.17.86/live/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Rajawali Radio]]></buttonDescription>
+<description><![CDATA[Indonesia Bandung TV channels]]></
+description>
+<url>http://radio.rajawalitv.web.id/</url>
+<video>http://118.97.167.44:8000/rajawaliradio-stereo?ty
+pe=.flv</video>
+<rtmpURI></rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">LQ</fo
+nt> Sunan Drajat TV]]></buttonDescription>
+<description><![CDATA[Indonesia Lamongan Sunan Drajat TV
+ channels]]></description>
+<url>http://sunandrajat.tv/</url>
+<video>dtv</video>
+<rtmpURI>rtmp://flash1.broadcastindo.net/dtv/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">HQ</fo
+nt> TV Parlemen]]></buttonDescription>
+<description><![CDATA[Indonesia Goverment TV channels]]>
+</description>
+<url>http://www.dpr.go.id/id/serba-serbi/tv-parlemen</ur
+l>
+<video>livestream</video>
+<rtmpURI>rtmp://118.97.126.19/golive</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">AV</fo
+nt> Voice of Indonesia]]></buttonDescription>
+<description><![CDATA[Indonesia Audio Video channels]]><
+/description>
+<url>http://en.voi.co.id/streaming/voi-streaming.php</ur
+l>
+<video>voi-live-streaming.sdp</video>
+<rtmpURI>rtmp://202.149.70.242/voi-live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Colors FM]]></buttonDescription>
+<description><![CDATA[Semarang Radio channels]]></descri
+ption>
+<url></url>
+<video>live</video>
+<rtmpURI>rtmp://wms.klikhost.com:1935/herbie/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> TV Aksi]]></buttonDescription>
+<description><![CDATA[Religious TV channels]]></descript
+ion>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/bethany
+/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Adventist Radio]]></buttonDescription>
+<description><![CDATA[Medan Religious TV channels]]></de
+scription>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/radiovo
+h/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Geronimo]]></buttonDescription>
+<description><![CDATA[Geronimo Radio channels]]></descri
+ption>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/geronim
+ofm/</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> RIS 103.2FM]]></buttonDescription>
+<description><![CDATA[Perbaungan Radio channels]]></desc
+ription>
+<url>http://indostreamvideo.com/#</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/risfm/<
+/rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Madu FM]]></buttonDescription>
+<description><![CDATA[Moslem Radio channels]]></descript
+ion>
+<url>http://www.radiomadufm.com/</url>
+<video>live</video>
+<rtmpURI>rtmp://videostream.indostreamserver.com/madufm<
+/rtmpURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> IIS Radio]]></buttonDescription>
+<description><![CDATA[IIS Hosting Radio channels]]></des
+cription>
+<video>issradio.stream</video>
+<rtmpURI>rtmp://video.indostreamradio.com/shoutcast</rtm
+pURI>
+<thumbnail></thumbnail>
+</item>
+<item>
+<buttonDescription><![CDATA[<font color="#0066FF">Radio<
+/font> Voice of Indonesia]]></buttonDescription>
+<description><![CDATA[Indonesia Audio Video channels]]><
+/description>
+<url>http://en.voi.co.id/streaming/voi-streaming-a.php</
+url>
+<video>voi-live-streaming.sdp</video>
+<rtmpURI>rtmp://202.149.70.242/voi-live</rtmpURI>
+<thumbnail></thumbnail>
+</item>
+</category>
+<category name="VIDEO ON DEMAND">
+<item>
+<buttonDescription><![CDATA[Kejarlah Jodoh Kau Kutangkap
+]]></buttonDescription>
+<video>http://www.youtube.com/watch?v=cuO6NfaRlB8</video
+>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Radio Galau FM]]></buttonDes
+cription>
+<video>https://www.youtube.com/watch?v=UAa7W5b18ec</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Merah Putih]]></buttonDescri
+ption>
+<video>https://www.youtube.com/watch?v=3Yz3zXo3CME</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Broken Heart]]></buttonDescr
+iption>
+<video>https://www.youtube.com/watch?v=y-v-SRfz-EQ</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[My Last Love]]></buttonDescr
+iption>
+<video>https://www.youtube.com/watch?v=dfcszkB950A</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Fall in Love]]></buttonDescr
+iption>
+<video>https://www.youtube.com/watch?v=kwZTKnaTL8Q</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Mama Minta Pulsa]]></buttonD
+escription>
+<video>https://www.youtube.com/watch?v=jdfoWYPWcig</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Di Bawah Lindungan Ka'bah]]>
+</buttonDescription>
+<video>https://www.youtube.com/watch?v=vkYu0VVs_To</vide
+o>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[3 Hati untuk 1 Cinta]]></but
+tonDescription>
+<video>http://www.youtube.com/watch?v=iGWf_ft0gXc</video
+>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+<item>
+<buttonDescription><![CDATA[Cinta 2 Hati]]></buttonDescr
+iption>
+<video>http://www.youtube.com/watch?v=b3eYcr4b67g</video
+>
+<getYouTubeVideoInfo>true</getYouTubeVideoInfo>
+<youTubePlaybackQuality>hd720</youTubePlaybackQuality>
+<thumbnail></thumbnail>
+<description/>
+</item>
+</category>
+</videogallery>
+Menampilkan google-reader.
