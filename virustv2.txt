@@ -1,0 +1,981 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ZALTV LBKB",BERDOA DULU BIAR LANCAR
+http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fatihah.mp3
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", Qur'an TV
+http://103.130.186.138:8800/oxygenplay/qurantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", AL Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", Tawaf TV
+http://103.130.186.138:8800/oxygenplay/tawaftv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", Muadz TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1655663467.m3u8?Stream-ID-PPIIPTV-MuadztvEdhorizki-master.js
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="RELIGI", Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w388392983.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="RELIGI", Paytren TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",Bioskop Indonesia
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/908
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",Blue Ant Extreme HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/811
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",Cinemax ID
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/2156
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/99
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",FOX Crime HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/763
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",FOX HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/95
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",FOX Life HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/94
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",HBO Family HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/592
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",HBO HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/210
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",HBO Hits HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/591
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",HBO Signature HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/873
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MOVIES PREMIUM",Star World
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/381
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE SPORT 1
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE SPORT 2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FOX SPORT 2
+https://cdnjt25.useetv.com/joss/15/foxsport2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FOX SPORT 3
+https://cdnjt25.useetv.com/joss/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",EGG NETWORK
+https://cdnjt25.useetv.com/joss/14/egg/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NBC GOLF
+https://cdnjt25.useetv.com/joss/15/golf/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ANIPLUS
+https://cdnjt25.useetv.com/joss/14/aniplus/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",AXN
+https://cdnjt25.useetv.com/joss/15/axn/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TVN
+https://cdnjt25.useetv.com/joss/15/tvn/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TVN MOVIES
+https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DUNIA LAIN
+https://cdnjt25.useetv.com/joss/14/dunialain/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",IMC
+https://cdnjt25.useetv.com/joss/14/imc/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BIOSKOP INDONESIA
+https://cdnjt25.useetv.com/joss/14/bioskopindonesia/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CINEMA WORLD
+https://cdnjt25.useetv.com/joss/14/cinemaworld/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FLIK
+https://cdnjt25.useetv.com/joss/15/flik/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",GALAXY
+https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",THRILL
+https://cdnjt25.useetv.com/joss/14/thrill/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ZEE BIOSKOP
+https://cdnjt25.useetv.com/joss/14/zbioskop/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CELESTIAL MOVIES
+https://cdnjt25.useetv.com/joss/14/celestialmovie/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ANIMAX
+https://cdnjt25.useetv.com/joss/14/animax/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",KIX
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CITRA DRAMA
+https://cdnjt25.useetv.com/joss/14/cdrama/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DUNIA LAIN HD
+https://cdnjt25.useetv.com/joss/14/dunialain/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BLUEANT ENTERTAINMENT
+https://cdnjt25.useetv.com/joss/14/blueant/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BLUEANT EXTREME
+https://cdnjt25.useetv.com/joss/14/blueantextreme/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NATIONAL GEOGRAPHIC
+https://cdnjt25.useetv.com/joss/15/natgeo/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NAT GEO PEOPLE
+https://cdnjt25.useetv.com/joss/15/natgeopeople/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NAT GEO WILD
+https://cdnjt25.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DISCOVERY CHANNEL
+https://cdnjt25.useetv.com/joss/15/disco/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CRIME INVESTIGATION
+https://cdnjt25.useetv.com/joss/15/crimeinvestigation/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CGTN DOCUMENTARY
+https://cdnjt25.useetv.com/joss/14/cgtndocumentary/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",INDOSIAR
+https://cdnjt25.useetv.com/joss/15/indosiar/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",KOMPAS TV
+https://cdnjt25.useetv.com/joss/15/kompastv/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NET TV INDONESIA
+https://cdnjt25.useetv.com/joss/15/net/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",RAJAWALI TV
+https://cdnjt25.useetv.com/joss/14/rtv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",SCTV
+https://cdnjt25.useetv.com/joss/15/sctv/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TRANS 7
+https://cdnjt25.useetv.com/joss/15/trans7/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TRANS TV
+https://cdnjt25.useetv.com/joss/15/transtv/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CNN INDONESIA
+https://cdnjt25.useetv.com/joss/15/cnnindonesia/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",METRO TV
+https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BERITA SATU
+https://cdnjt25.useetv.com/joss/14/beritasatu/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE INFO
+https://cdnjt25.useetv.com/joss/15/useeinfo/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE PHOTO
+https://cdnjt25.useetv.com/joss/15/useephoto/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE PRIME
+https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",IDKU
+https://cdnjt25.useetv.com/joss/15/idku/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",JITV
+https://cdnjt25.useetv.com/joss/14/jitv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ANTARA TV
+https://cdnjt25.useetv.com/joss/14/antara/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BALI TV
+https://cdnjt25.useetv.com/joss/14/balitv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",JAK TV
+https://cdnjt25.useetv.com/joss/14/jaktv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",JTV INDONESIA
+https://cdnjt25.useetv.com/joss/14/jtv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",MYTV
+https://cdnjt25.useetv.com/joss/14/mytv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TV EDUKASI
+https://cdnjt25.useetv.com/joss/14/tvedukasi/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TVRI NASIONAL
+https://cdnjt25.useetv.com/joss/15/tvri/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DAAI TV
+https://cdnjt25.useetv.com/joss/14/daaitv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",INSERT TV
+https://cdnjt25.useetv.com/joss/14/insert/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",RRINET
+https://cdnjt25.useetv.com/joss/14/rrinet/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",IDX
+https://cdnjt25.useetv.com/joss/14/idx/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",MNC SHOP
+https://cdnjt25.useetv.com/joss/14/mncshop/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TV9 NUSANTARA
+https://cdnjt25.useetv.com/joss/14/tv9/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",UC CHANNEL
+https://cdnjt25.useetv.com/joss/14/uchannel/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ALQURAN SUNNAH TV
+https://cdnjt25.useetv.com/joss/14/alquran/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",MTA TV
+https://cdnjt25.useetv.com/joss/14/mtatv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",MQ TV
+https://cdnjt25.useetv.com/joss/14/mqtv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",MUHAMMADIYAH TV
+https://cdnjt25.useetv.com/joss/14/muhammadiyahtv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",RODJA TV
+https://cdnjt25.useetv.com/joss/14/rodjatv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BLOOMBERG TV
+https://cdnjt25.useetv.com/joss/14/bloomberg/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",EAT GO
+https://cdnjt25.useetv.com/joss/14/eatgo/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ASIAN FOOD CHANNEL
+https://cdnjt25.useetv.com/joss/15/afc/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CNN INTERNATIONAL
+https://cdnjt25.useetv.com/joss/15/cnninternational/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NEW ASIA
+https://cdnjt25.useetv.com/joss/14/newsasia/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DW ENGLISH
+https://cdnjt25.useetv.com/joss/14/dwtv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FRANCE 24 ENGLISH
+https://cdnjt25.useetv.com/joss/14/france24/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",AL JAZEERA ENGLISH
+https://cdnjt25.useetv.com/joss/14/aljazeera/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",EURONEWS
+https://cdnjt25.useetv.com/joss/14/euronews/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",IKONSER
+https://cdnjt25.useetv.com/joss/14/ikonser/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CITRA DANGDUT
+https://cdnjt25.useetv.com/joss/14/citradangdut/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",PRAMBORS TV
+https://cdnjt25.useetv.com/joss/14/pramborstv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",HOREE TV
+https://cdnjt25.useetv.com/joss/14/horee/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BABY FIRST
+https://cdnjt25.useetv.com/joss/14/babyfirst/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DUCKTV
+https://cdnjt25.useetv.com/joss/14/ducktv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BOOMERANG
+https://cdnjt25.useetv.com/joss/14/boomerang/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CARTOON NETWORK
+https://cdnjt25.useetv.com/joss/14/cartoonnetwork/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DUNIA ANAK
+https://cdnjt25.useetv.com/joss/14/duniaanak/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NICK JR
+https://cdnjt25.useetv.com/joss/14/nickjr/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NICKELODEON
+https://cdnjt25.useetv.com/joss/14/nickelodeon/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DAVINCI LERNING
+https://cdnjt25.useetv.com/joss/14/davinci/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",DREAMWORKS
+https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",ARIRANG TV
+https://cdnjt25.useetv.com/joss/14/arirang/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",KBS WORLD
+https://cdnjt25.useetv.com/joss/15/kbsworld/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",AUSTRALIAN NETWORK
+https://cdnjt25.useetv.com/joss/15/abcaustralia/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NHK PREMIUM
+https://cdnjt25.useetv.com/joss/15/nhkpremium/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CHINESE DRAMA
+https://cdnjt25.useetv.com/joss/14/chinesedrama/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",LIFETIME
+https://cdnjt25.useetv.com/joss/14/lifetime/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",HISTORY CHANNEL
+https://cdnjt25.useetv.com/joss/15/history/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",WAKU WAKU JAPAN
+https://cdnjt25.useetv.com/joss/15/wakuwaku/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CCTV 4
+https://cdnjt25.useetv.com/joss/14/cctv4/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",K PLUS
+https://cdnjt25.useetv.com/joss/15/kplus/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NHK WORLD
+https://cdnjt25.useetv.com/joss/14/nhkworld/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",SONY GEM
+https://cdnjt25.useetv.com/joss/15/sgem/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",SONY ONE
+https://cdnjt25.useetv.com/joss/15/sone/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",TV5 MONDE
+https://cdnjt25.useetv.com/joss/14/tv5monde/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",BEIN SPORT 1 ASIA
+https://cdnjt25.useetv.com/joss/15/bein1/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CHAMPION 1
+https://cdnjt25.useetv.com/joss/15/champion1/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",CHAMPION 2
+https://cdnjt25.useetv.com/joss/15/champion2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE SPORT 1
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",USEE SPORT 2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FOX SPORT 2
+https://cdnjt25.useetv.com/joss/15/foxsport2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FOX SPORT 3
+https://cdnjt25.useetv.com/joss/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",EGG NETWORK
+https://cdnjt25.useetv.com/joss/14/egg/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NBC GOLF
+https://cdnjt25.useetv.com/joss/15/golf/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NBA
+https://cdnjt25.useetv.com/joss/15/nba/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FASHION ONE
+https://cdnjt25.useetv.com/joss/15/fashionone/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",FASHION TV
+https://cdnjt25.useetv.com/joss/15/fashiontv/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",GALAXY PREMIUM
+https://cdnjt25.useetv.com/joss/15/galaxypremium/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",RUANG TERAMPIL
+https://cdnjt25.useetv.com/joss/15/useeinfo/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",GOLF (SPORT)
+https://cdnjt25.useetv.com/joss/15/golf/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ALL USEETV",NBA TV (SPORT)
+https://cdnjt25.useetv.com/joss/15/nba/chunklist_b1344100_sleng_.m3u8
+UseeSport 1
+https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="LOCAL",RCTI HD 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",RCTI SD 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",MNCTV SD 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",GLOBAL TV HD 
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",ANTV HD
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",TVRI HD 
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="LOCAL",TVRI SD 
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOCAL",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8 
+EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", ANTV
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", SCTV
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="INDONESIA", INDOSIAR HD
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="LOKAL", NET TV HD
+http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", TRANS 7 HD
+http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="INDONESIA", TRANS TV HD
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="INDONESIA", TVONE
+http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", KOMPAS TV
+http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", DAAI TV HD
+http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", TVRI
+http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="INDONESIA", TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", JAKTV
+http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", CNN Indonesia HD Backup
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="INDONESIA", Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"  group-title="INDONESIA", CNBC HD
+http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="INDONESIA", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Indosiar
+https://cdnjt25.useetv.com/joss/15/indosiar/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",SCTV
+https://cdnjt25.useetv.com/joss/15/sctv/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Net TV
+https://cdnjt25.useetv.com/joss/15/net/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Trans 7
+https://cdnjt25.useetv.com/joss/15/trans7/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Trans TV
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+https://cdnjt25.useetv.com/joss/15/transtv/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",O Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",inews
+http://103.130.186.138:8800/oxygenplay/inews/index.m3u8  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Metro TV
+https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Rajawali TV
+https://cdnjt25.useetv.com/joss/14/rtv/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Kompas TV
+https://cdnjt25.useetv.com/joss/15/kompastv/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Berita Satu
+https://cdnjt25.useetv.com/joss/14/beritasatu/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",CNN Indonesia
+https://cdnjt25.useetv.com/joss/15/cnnindonesia/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",Antara TV
+https://cdnjt25.useetv.com/joss/14/antara/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",JITV
+https://cdnjt25.useetv.com/joss/14/jitv/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",BALI TV
+https://cdnjt25.useetv.com/joss/14/balitv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",,JAK TV
+https://cdnjt25.useetv.com/joss/14/jaktv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",JTV
+https://cdnjt25.useetv.com/joss/14/jtv/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",MYTV
+https://cdnjt25.useetv.com/joss/14/mytv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",TV EDUKASI
+https://cdnjt25.useetv.com/joss/14/tvedukasi/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",TVRI NASIONAL
+https://cdnjt25.useetv.com/joss/15/tvri/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",DAITV
+https://cdnjt25.useetv.com/joss/14/daaitv/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",INSERT TV
+https://cdnjt25.useetv.com/joss/14/insert/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",RRI NET
+https://cdnjt25.useetv.com/joss/14/rrinet/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",ELJHON TV
+https://cdnjt25.useetv.com/joss/14/eljohn/chunklist_b944100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="USEETV",TV9 NUSANTARA
+https://cdnjt25.useetv.com/joss/14/tv9/chunklist_b684100_sleng_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",CARTOON NETWORK
+https://cdnjt25.useetv.com/joss/14/cartoonnetwork/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",DUNIA ANAK
+https://cdnjt25.useetv.com/joss/14/duniaanak/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",NICK JR
+https://cdnjt25.useetv.com/joss/14/nickjr/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",NICKELODEON
+https://cdnjt25.useetv.com/joss/14/nickelodeon/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",DAVINCI LERNING
+https://cdnjt25.useetv.com/joss/14/davinci/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",DREAMWORKS
+https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",BOOMERANG
+https://cdnjt25.useetv.com/joss/14/boomerang/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",DUCK TV
+https://cdnjt25.useetv.com/joss/14/ducktv/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",BABY FIRST
+https://cdnjt25.useetv.com/joss/14/babyfirst/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",HOREE TV
+https://cdnjt25.useetv.com/joss/14/horee/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",Disney Channel ID
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/3479
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",Disney Junior
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/213
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",Nick Jr 2
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/341
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",Nick Toons
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/335
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",AXN
+https://cdnjt25.useetv.com/joss/15/axn/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",TVN
+https://cdnjt25.useetv.com/joss/15/tvn/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",TVN MOVIES
+https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",ANIPLUS
+https://cdnjt25.useetv.com/joss/14/aniplus/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",IMC
+https://cdnjt25.useetv.com/joss/14/imc/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",BIOSKOP INDONESIA
+https://cdnjt25.useetv.com/joss/14/bioskopindonesia/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",CINEMA WORLD
+https://cdnjt25.useetv.com/joss/14/cinemaworld/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",FLIX
+https://cdnjt25.useetv.com/joss/15/flik/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",GALAXY
+https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",THRILL
+https://cdnjt25.useetv.com/joss/14/thrill/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",ZEE BIOSKOP
+https://cdnjt25.useetv.com/joss/14/zbioskop/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",CELESTIAL MOVIES
+https://cdnjt25.useetv.com/joss/14/celestialmovie/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV KIDS",ANIMAX
+https://cdnjt25.useetv.com/joss/14/animax/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV FILM",KIX
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV ",IDKU
+https://cdnjt25.useetv.com/joss/15/idku/chunklist_b1344100_sleng_.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",Dunia Lain
+https://cdnjt25.useetv.com/joss/14/dunialain/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",CITRA DRAMA
+https://cdnjt25.useetv.com/joss/14/cdrama/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",BLUE ANT ENTERTAINMENT
+https://cdnjt25.useetv.com/joss/14/blueant/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",BLUE ANT EXTREME
+https://cdnjt25.useetv.com/joss/14/blueantextreme/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",KPLUS
+https://cdnjt25.useetv.com/joss/15/kplus/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",CHINESE DRAMA
+https://cdnjt25.useetv.com/joss/14/chinesedrama/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",WARNER BROS
+https://cdnjt25.useetv.com/joss/15/warner/chunklist_w1146045235_b494100_sleng.m3u8?enc=zUSDDuNt2EV4gZOz1V8TQA&exp=1603174293
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV HIBURAN",DRAKOR
+http://103.130.186.138:8800/oxygenplay/drakorplus/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",CITRA DANGDUT
+https://cdnjt25.useetv.com/joss/14/citradangdut/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",I KONSER
+https://cdnjt25.useetv.com/joss/14/ikonser/chunklist_b684100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",PRAMBORS TV
+https://cdnjt25.useetv.com/joss/14/pramborstv/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",KARAOKE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",MUSIC 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",POP MUSIC
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",CHANNEL V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MUSIC",DANGDUT TV
+http://wms.klikhost.com/dangduttivi/dangduttivi/chunklist_w361151203.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",NAT GEO WILD
+https://cdnjt25.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",NAT GEO PEOPLE
+https://cdnjt25.useetv.com/joss/15/natgeopeople/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+https://cdnjt25.useetv.com/joss/15/natgeo/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",DISCOVERY CHANNEL
+https://cdnjt25.useetv.com/joss/15/disco/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",CRIME INVESTIGATION
+https://cdnjt25.useetv.com/joss/15/crimeinvestigation/chunklist_b894100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",CGTN DOCUMENTARY
+https://cdnjt25.useetv.com/joss/14/cgtndocumentary/chunklist_b684100_sleng_.m3u8
+ NAT GEO WILD
+https://cdnjt25.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",NAT GEO PEOPLE
+https://cdnjt25.useetv.com/joss/15/natgeopeople/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+https://cdnjt25.useetv.com/joss/15/natgeo/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",DISCOVERY CHANNEL
+https://cdnjt25.useetv.com/joss/15/disco/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",CRIME INVESTIGATION
+https://cdnjt25.useetv.com/joss/15/crimeinvestigation/chunklist_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="KNOWLEDGE",CGTN DOCUMENTARY
+https://cdnjt25.useetv.com/joss/14/cgtndocumentary/chunklist_b684100_sleng_.m3u8 
+
+#EXTINF:0, tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MALAYSIA",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+#EXTINF:-1  tvg-lohttps://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="MALAYSIA",RTB
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", CERIA
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", RIA
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title=" ASTRO", WARNA
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", Astro Naura
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", Bernama
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO",Hello
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO", KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",Champions tv 1
+https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",Champions tv 3
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=af4f00ca48321fb026865c5a1772dafd92a0b898598ef9416ca40dd3efbbfae1 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",Usee Sports 1
+https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",Usee Sports 2
+https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",FOX Sports 1
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4938af744b253b57bcf6f33d3dbf2f38fad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",FOX Sports 2
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=9ca5d4a6246ad7c88e8663da026f1cbdfad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",FOX Sports 3
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c372de9c52ad3489a20563ceca0ffb48fad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",Bein Sports 1
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",Bein Sports 2
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",UFC 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",UFC 4
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",,USEESPORT 1
+https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",USEESPORT 2
+https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",CHAMPION 1
+https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",CHAMPION 2
+https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",,BEIN SPORT 1
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",BEIN SPORT 2
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",FOX SPORTS 1
+https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",FOX SPORTS 2
+https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8
+#EXTINF:-1 https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="USEETV SPORT",FOX SPORTS 3
+https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+#EXTINF:-1 group-title=" SPORTS",Bein Sport EPL 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORT TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8 
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORT TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1 group-title="DUNIA ",SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="SPORTS",SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein Sports 1
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:-1 group-title="DUNIA",Bein Sports 2
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1 group-title="SPORTS",UFC 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 group-title="SPORTS",UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8 
+#EXTINF:-1 group-title="SPORTS",UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8 
+#EXTINF:-1 group-title="SPORTS",UFC 4
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 group-title="MUSIC",Via Vallen - Meraih Bintang  
+https://m.vidio.com/videos/1639063/vjs_playlist.m3u8  
+#EXTINF:-1 group-title="MUSIC",via vallen - selow   
+https://m.vidio.com/videos/1829739/vjs_playlist.m3u8  
+#EXTINF:-1 tvgroup-title="MUSIC",via vallen - bro  
+https://m.vidio.com/videos/1829825/vjs_playlist.m3u8  
+#EXTINF:-1 group-title="MUSIC",via vallen - bojo galak 
+https://m.vidio.com/videos/1828825/vjs_playlist.m3u8  
+#EXTINF:-1group-title="MUSIC",NOAH – Seperti Kemarin 
+https://m.vidio.com/videos/853603/vjs_playlist.m3u8 
+#EXTINF:-1 group-title="MUSIC",NOAH – Wanitaku 
+https://m.vidio.com/videos/1724786/vjs_playlist.m3u8  
+#EXTINF:-1 group-title="MUSIC",NOAH - Kupeluk Hatimu  
+https://www.googleapis.com/drive/v3/files/14bxi6DNqQurZjqaRJHAEpJ2YGhLC3vrR?alt=media&key= 
+#EXTINF:-1 group-title="MUSIC",NOAH – Menemaniku 
+https://m.vidio.com/videos/2030279/vjs_playlist.m3u8  
+#EXTINF:-1 tvg-logo="" group-title="Vod Musik",NOAH - Kau Udara Bagiku 
+https://m.vidio.com/videos/1820361/vjs_playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Vod Musik",NOAH - Kala Cinta Menggoda 
+https://m.vidio.com/videos/1979198/vjs_playlist.m3u8  
+#EXTINF:-1 group-title="MUSIC",Mahadewa - Picisan
+https://www.googleapis.com/drive/v3/files/1vn-eUd12RTjnP9y6dGejhW8PoFX64rX-?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
+#EXTINF: -1 group-title="MUSIC", INSYAF 
+https://www.dropbox.com/s/6yevgyo7s204rmg/INSYAF.mp4?dl=1  
+#EXTINF:-1 group-title="MUSIC",Arash Buana - Menanti Pagi   
+https://cdnstream.metube.id/videom3u8/Jj3n84CmUPz5AWYbM0vh/240p/list.m3u8 
+
+#EXTINF:-1 group-title="VOD",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:-1 group-title="VOD",Godzilla: Planet of the Monsters (2017)
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:-1 group-title="VOD",Wonder Woman (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 group-title="VOD",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="VOD",Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:-1 group-title="VOD",Nocturnal Animals (2016)
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="VOD",Rogue One: A Star Wars Story (2016)
+http://deadlyblogger.com/NewRelease/rogue1.mp4
+#EXTINF:-1 group-title="VOD",X-Men: Apocalypse (2016)
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:-1 group-title="VOD",The Hateful Eight (2015)
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:-1 group-title="VOD",The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:-1 group-title="VOD",A Haunted House 2 (2014)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 group-title="VOD",Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD",Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:-1 group-title="VOD",Get on Up (2014)
+http://deadlyblogger.com/NewRelease/getonup.mp4
+#EXTINF:-1 group-title="VOD",John Wick (2014)
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+#EXTINF:-1 group-title="VOD",Madea's Neighbors from Hell (2014)
+http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
+#EXTINF:-1 group-title="VOD",Maleficent (2014)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1 group-title="VOD",Mr. Peabody & Sherman (2014)
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 group-title="VOD",Need for Speed (2014)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1 group-title="VOD",Non-Stop (2014)
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:-1 group-title="VOD",Paranormal Activity: The Marked Ones (2014)
+http://www.deadlyblogger.com/NewRelease/markedones.mp4
+#EXTINF:-1 group-title="VOD",Pompeii (2014)
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+#EXTINF:-1 group-title="VOD",Ride Along (2014)
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+#EXTINF:-1 group-title="VOD",Rio 2 (2014)
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="VOD",School Dance (2014)
+http://www.deadlyblogger.com/NewRelease/schooldance.mp4
+#EXTINF:-1 group-title="VOD",Taken 3 (2014)
+http://deadlyblogger.com/NewRelease/taken3.mp4
+#EXTINF:-1 group-title="VOD",The Amazing Spider-Man 2 (2014)
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+#EXTINF:-1 group-title="VOD",The Lego Movie (2014)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 group-title="VOD",The Pirate Fairy (2014)
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 group-title="VOD",The Single Moms Club (2014)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1 group-title="VOD",Veronica Mars (2014)
+http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
+#EXTINF:-1 group-title="VOD",47 Ronin (2013)
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 group-title="VOD",Afflicted (2013)
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 group-title="VOD",Bad Grandpa (2013)
+http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 group-title="VOD",Battle of the Year (2013)
+http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
+#EXTINF:-1 group-title="VOD",Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+#EXTINF:-1 group-title="VOD",Delivery Man (2013)
+http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 group-title="VOD",Empire State (2013)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1 group-title="VOD",Epic (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 group-title="VOD",Escape Plan (2013)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1 group-title="VOD",Free Birds (2013)
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+#EXTINF:-1 group-title="VOD",Grown Ups 2 (2013)
+http://www.deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 group-title="VOD",Grudge Match (2013)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1 group-title="VOD",Identity Thief (2013)
+http://www.deadlyblogger.com/NewRelease/identitythief.mp4
+#EXTINF:-1 group-title="VOD",Insidious - Chapter 2 (2013)
+http://www.deadlyblogger.com/NewRelease/insidious2.mp4
+#EXTINF:-1 group-title="VOD",Kevin Hart: Let Me Explain (2013)
+http://www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 group-title="VOD",Kick-Ass 2 (2013)
+http://www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 group-title="VOD",Killing Season (2013)
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 group-title="VOD",Last Vegas (2013)
+http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 group-title="VOD",Lego Star Wars: The Yoda Chronicles (2013)
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="VOD",Man of Steel (2013)
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 group-title="VOD",Man of Tai Chi (2013)
+http://www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 group-title="VOD",Monsters University (2013)
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="VOD",Now You See Me (2013)
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 group-title="VOD",Olympus Has Fallen (2013)
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 group-title="VOD",Prisoners (2013)
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 group-title="VOD",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD",Repentance (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="VOD",Runner Runner (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="VOD",Saving Mr. Banks (2013)
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 group-title="VOD",Star Trek: Into Darkness (2013)
+http://deadlyblogger.com/NewRelease/darkness.mp4
+#EXTINF:-1 group-title="VOD",The Bling Ring (2013)
+http://www.deadlyblogger.com/NewRelease/blingring.mp4
+#EXTINF:-1 group-title="VOD",The Call (2013)
+http://www.deadlyblogger.com/NewRelease/thecall.mp4
+#EXTINF:-1 group-title="VOD",The Conjuring (2013)
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 group-title="VOD",The Grandmaster (2013)
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+#EXTINF:-1 group-title="VOD",The Family (2013)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1 group-title="VOD",The Hangover Part III (2013)
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+#EXTINF:-1 group-title="VOD",The Heat (2013)
+http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 group-title="VOD",The Hobbit: The Desolation of Smaug (2013)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1 group-title="VOD",The Hunger Games: Catching Fire (2013)
+http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
+#EXTINF:-1 group-title="VOD",The Internship (2013)
+http://www.deadlyblogger.com/NewRelease/internship2013.mp4
+#EXTINF:-1 group-title="VOD",The Jungle Book: Return 2 the Jungle (2013)
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 group-title="VOD",The Mortal Instruments: City of Bones (2013)
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+#EXTINF:-1 group-title="VOD",The Starving Games (2013)
+http://www.deadlyblogger.com/NewRelease/starving2013.mp4
+#EXTINF:-1 group-title="VOD",The Smurfs 2 (2013)
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+#EXTINF:-1 group-title="VOD",The Wolf of Wall Street (2013)
+http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
+#EXTINF:-1 group-title="VOD",The Wolverine (2013)
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1 group-title="VOD",This Is the End (2013)
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 group-title="VOD",Toy Story of Terror (2013)
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="VOD",Turbo (2013)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 group-title="VOD",We're the Millers (2013)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 group-title="VOD",World War Z (2013)
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 group-title="VOD",Flight (2012)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="VOD",Men in Black 3 (2012)
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 group-title="VOD",Pitch Perfect (2012)
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 group-title="VOD",Project X (2012)
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 group-title="VOD",Prometheus (2012)
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 group-title="VOD",Safe House (2012)
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 group-title="VOD",Spring Breakers (2012)
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 group-title="VOD",The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 group-title="VOD",The Hobbit: An Unexpected Journey (2012)
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 group-title="VOD",The Hunger Games (2012)
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 group-title="VOD",This Is 40 (2012)
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 group-title="VOD",Think Like a Man (2012)
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 group-title="VOD",Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 group-title="VOD",Wrong Turn 5: Bloodlines (2012)
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 group-title="VOD",Fast Five (2011)
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 group-title="VOD",King of Paper Chasin' (2011)
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 group-title="VOD",Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 group-title="VOD",The Girl with the Dragon Tattoo (2011)
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 group-title="VOD",The Grey (2011)
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 group-title="VOD",The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 group-title="VOD",The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 group-title="VOD",The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 group-title="VOD",Transformers: Dark of the Moon (2011)
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 group-title="VOD",Wrong Turn 4 - Bloody Beginnings (2011)
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 group-title="VOD", First Class (2011)
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 group-title="VOD",Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 group-title="VOD",Grown Ups (2010)
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 group-title="VOD",Hot Tub Time Machine (2010)
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 group-title="VOD",Insidious (2010)
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 group-title="VOD",Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 group-title="VOD",Jackass 3D (2010)
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 group-title="VOD",Saw 3D - The Final Chapter (2010)
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 group-title="VOD",Tangled (2010)
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="VOD",The Next Three Days (2010)
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="VOD",The Other Guys (2010)
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 group-title="VOD",The Social Network (2010)
+https://archive.org/download/TheSocialNetwork2010720pBrRipX264700MBYIFY/The%20Social%20Network%20(2010)%20720p%20BrRip%20x264%20-%20700MB%20-%20YIFY.mp4
+#EXTINF:-1 group-title="VOD",Unstoppable (2010)
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 group-title="VOD",A Christmas Carol (2009)
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 group-title="VOD",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+#EXTINF:-1 group-title="VOD",Fast & Furious (2009)
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+#EXTINF:-1 group-title="VOD",Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
+#EXTINF:-1 group-title="VOD",Land of the Lost (2009)
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+#EXTINF:-1 group-title="VOD",Law Abiding Citizen (2009)
+http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 group-title="VOD",Madea Goes to Jail (2009)
+http://www.deadlyblogger.com/NewRelease/madea1.mp4
+#EXTINF:-1 group-title="VOD",Orphan (2009)
+http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
+#EXTINF:-1 group-title="VOD",Saw VI (2009)
+http://www.deadlyblogger.com/NewRelease/saw6.mp4
+#EXTINF:-1 group-title="VOD",The Chinese Room (2009)
+https://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:-1 group-title="VOD",The Hangover (2009)
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 group-title="VOD",The Taking of Pelham 123 (2009)
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+#EXTINF:-1 group-title="VOD",Transformers: Revenge of the Fallen (2009)
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+#EXTINF:-1 group-title="VOD",Wrong Turn 3 - Left for Dead (2009)
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+#EXTINF:-1 group-title="VOD",X-Men Origins: Wolverine (2009)
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1 group-title="VOD",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+#EXTINF:-1 group-title="VOD",Iron Man (2008)
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+#EXTINF:-1 group-title="VOD",Meet the Browns (2008)
+http://www.deadlyblogger.com/NewRelease/browns1.mp4
+#EXTINF:-1 group-title="VOD",Saw V (2008)
+http://www.deadlyblogger.com/NewRelease/saw5.mp4
+#EXTINF:-1 group-title="VOD",Semi-Pro (2008)
+http://www.deadlyblogger.com/NewRelease/semipro.mp4
+#EXTINF:-1 group-title="VOD",Seven Pounds (2008)
+http://www.deadlyblogger.com/NewRelease/sevenp.mp4
+#EXTINF:-1 group-title="VOD",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 group-title="VOD",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+#EXTINF:-1 group-title="VOD",Step Brothers (2008)
+http://www.deadlyblogger.com/NewRelease/stepbro.mp4
+#EXTINF:-1 group-title="VOD",The House Bunny (2008)
+http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
+#EXTINF:-1 group-title="VOD",American Gangster (2007)
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 group-title="VOD",Blades of Glory (2007)
+http://www.deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:-1 group-title="VOD",Hot Fuzz (2007)
+http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
+#EXTINF:-1 group-title="VOD",Am Legend (2007)
+http://www.deadlyblogger.com/NewRelease/iaml.mp4
+#EXTINF:-1 group-title="VOD",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+#EXTINF:-1 group-title="VOD",Ratatouille (2007)
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 group-title="VOD",Saw IV (2007)
+http://www.deadlyblogger.com/NewRelease/saw4.mp4
+#EXTINF:-1 group-title="VOD",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 group-title="VOD",The Bourne Ultimatum (2007)
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+#EXTINF:-1 group-title="VOD",Transformers (2007)
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+#EXTINF:-1 group-title="VOD",Wrong Turn 2: Dead End (2007)
+http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
+#EXTINF:-1 group-title="VOD",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+#EXTINF:-1 group-title="VOD",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 lgroup-title="VOD",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
